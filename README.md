@@ -4,7 +4,7 @@ Business Engineering and Economics student at Maastricht University, in the Bay 
 
 Updated 9 Nov 2026.
 
-## Big project: Backstop
+## Big project: Backstop: an AI agent that fixes supply shortages
 
 An AI agent that steps in when a supply plan breaks. Humans keep MRP and forecasting. When a shortage or escalation appears, Backstop looks at other suppliers and at stock in other factories, picks a fix, resolves small cases on its own and sends larger ones to a person for approval.
 
