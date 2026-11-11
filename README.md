@@ -2,13 +2,13 @@
 
 Business Engineering and Economics student at Maastricht University, in the Bay Area until December. Building AI agents for supply chain planning (ex-Danone, Global Resource Management).
 
-Updated 9 Nov 2026.
+Updated 11 Nov 2026.
 
 ## Big project: Backstop: an AI agent that fixes supply shortages
 
 An AI agent that steps in when a supply plan breaks. Humans keep MRP and forecasting. When a shortage or escalation appears, Backstop looks at other suppliers and at stock in other factories, picks a fix, resolves small cases on its own and sends larger ones to a person for approval.
 
-4-week plan: week 1 scope, data and test scenarios; week 2 shortage detector and option finder; week 3 agent, approval limits and decision log; week 4 web demo, practitioner feedback and write-up. Status: week 1 scoping in progress.
+4-week plan: week 1 scope, data and test scenarios; week 2 shortage detector and option finder; week 3 agent, approval limits and decision log; week 4 web demo, practitioner feedback and write-up. Status: weeks 1–3 done (scope, dataset, 20 test scenarios and detector; option finder, ranking and rules-only pipeline; AI agent with a code-enforced approval gate and decision log). Phase 2 started: a day-by-day simulator and a benchmark that has no answer key.
 
 ## Links
 
@@ -29,10 +29,14 @@ An AI agent that steps in when a supply plan breaks. Humans keep MRP and forecas
 - Public Google Calendar of Bay Area AI events, synced with Luma registrations
 - Registered for the Robotics & World Models Reading Club (Nov 7)
 - X and Linktree set up
+- Backstop weeks 1–3 built, plus the Phase 2 simulator and benchmark
+- AI in Supply Chains article series, in English and Chinese
+- Agent Hub: a local workspace where ChatGPT manages a team of Claude agents (researcher, builder, reviewer)
+- Posted new reflections on yesterday's event (Nov 10) on X, LinkedIn and WeChat Moments
 
 ## In progress
 
-- Backstop, week 1 scoping
+- Backstop: Phase 2 benchmark and final held-out test, then week 4 web demo and write-up
 - Rebuilding six older portfolio projects from scratch: WagLab, Dig to the Core, Stillwater, Video Translation Workspace, Football Value Lab, and the portfolio site
 - Re-running older sites and projects through Claude
 - Daily to-do and progress tracker
